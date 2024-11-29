@@ -1,0 +1,9 @@
+﻿  program.cpp
+D:\code_hoc_tap\Nhom_11\Nhom_11\Header.h(120,10): warning C4101: 'maDC': unreferenced local variable
+D:\code_hoc_tap\Nhom_11\Nhom_11\Header.h(122,6): warning C4101: 'soLuong': unreferenced local variable
+D:\code_hoc_tap\Nhom_11\Nhom_11\Header.h(121,7): warning C4101: 'tenDC': unreferenced local variable
+D:\code_hoc_tap\Nhom_11\Nhom_11\Header.h(123,6): warning C4101: 'donGia': unreferenced local variable
+D:\code_hoc_tap\Nhom_11\Nhom_11\Header.h(297,12): warning C4101: 'maKH': unreferenced local variable
+D:\code_hoc_tap\Nhom_11\Nhom_11\Menu.h(43,6): warning C4101: 'soLuong': unreferenced local variable
+D:\code_hoc_tap\Nhom_11\Nhom_11\Menu.h(42,7): warning C4101: 'tenDC': unreferenced local variable
+  Nhom_11.vcxproj -> D:\code_hoc_tap\Nhom_11\x64\Debug\Nhom11.exe
